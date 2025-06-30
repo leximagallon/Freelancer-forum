@@ -1,0 +1,38 @@
+
+
+h1{
+        text-align: center;;
+}
+ .freelancer-table {
+    border-collapse: collapse;
+    width: 100%;
+    max-width: 600px;
+    margin: 20px 0;
+    font-family: Arial, sans-serif;
+  }
+
+  .freelancer-table th,
+  .freelancer-table td {
+    border: 1px solid #ddd;
+    padding: 10px 15px;
+    text-align: left;
+  }
+
+  .freelancer-table th {
+    background-color: #4CAF50;
+    color: white;
+    font-weight: bold;
+  }
+
+  .freelancer-table tbody tr:hover {
+    background-color: #f1f1f1;
+  }
+
+  .freelancer-table tfoot td {
+    font-weight: bold;
+    background-color: #f9f9f9;
+  }
+
+  .freelancer-table tfoot td[colspan="2"] {
+    text-align: right;
+  }
